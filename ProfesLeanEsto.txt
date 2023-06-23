@@ -1,0 +1,10 @@
+como nos avisaron de la organización luego de que nos indicaron crear el repo, el repo que tienen que ver es el de la organización. No pudimos actualizar el formulario de google forms. 
+
+repo que tienen que ver:
+https://github.com/ISPCcodesquadOrganization/ISPCTrabajoFinal.git
+
+la wiki que llenamos está en: 
+https://github.com/ispccodesquad/TrabajoIntegrador.git
+porque en la organziación no sale ninguna wiki. 
+
+Saludos!
